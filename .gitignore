@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.mobileprovision
+*.log
